@@ -1,2 +1,2 @@
 # Image_Detection
-These projects seek to analyze a series of image-type data, to be processed and train a Machine Learning model that detects a specific object within other images displayed.
+In these projects, image data is analyzed to extract relevant information and identify patterns. A machine learning model is then used to generate an algorithm that detects an object or objects within future images.
